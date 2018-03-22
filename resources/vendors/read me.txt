@@ -1,0 +1,1 @@
+this section for all resources which downloaded from the entire internet ,such as: normalize.css, google font types, etc.
